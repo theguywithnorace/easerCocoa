@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "52614430622",
+    "firebase_url": "https://easercocoa-7763c.firebaseio.com",
+    "project_id": "easercocoa-7763c",
+    "storage_bucket": "easercocoa-7763c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52614430622:android:3572f8b7a4fd609a",
+        "android_client_info": {
+          "package_name": "com.easer.easercocoa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52614430622-td3juudpban39l4qal8d31qftrn9nqnv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easer.easercocoa",
+            "certificate_hash": "eccc1d189b659b0b8438a18d37c2013da9e22161"
+          }
+        },
+        {
+          "client_id": "52614430622-n6c15q2vj9lit21ef3vsujeu61mu8oia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5oaha899Z5zeCfrqxgPTcFIqhaDFaUA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52614430622-n6c15q2vj9lit21ef3vsujeu61mu8oia.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "52614430622-puk6e2re9gfj8kjt6bk8rhmv5vhser1m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.invertase.easerCocoa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
